@@ -1,2 +1,2 @@
 # Make-game-with-C
-Maker : Bahadır Hakan Yüksel ,  Barış Kılıç
+Makers : Bahadır Hakan Yüksel ,  Barış Kılıç
